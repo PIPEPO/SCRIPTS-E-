@@ -1,0 +1,1 @@
+using System.Collections;using System.Collections.Generic;using UnityEngine;public class HelloWorld : MonoBehaviour{    public int E = 1;    void Start()        {            }    void Update()        {           E = E + 1;        int Q = 1;      int W = E * Q;        print(W * E);    }}
